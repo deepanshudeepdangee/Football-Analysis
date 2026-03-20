@@ -1,0 +1,18 @@
+# videos
+input_videos/
+output_videos/
+*.mp4
+*.avi
+
+# models
+models/
+*.pt
+*.pth
+
+# cache / stubs
+stubs/
+*.pkl
+
+# python
+__pycache__/
+*.pyc
